@@ -1,6 +1,6 @@
 Project Name: replace.py
 
-1. # What It Does
+1. What It Does
 
 a. Original String
 Prints the original string:
@@ -18,7 +18,7 @@ d. Reverse the String
 Reverses the uppercase string and prints:
 ".GOD YZAL EHT REVO SPMUJ XOF NWORB KCIUQ EHT"
 
-2. # String Manipulation in Python
+2. String Manipulation in Python
 
 This simple Python script demonstrates basic string manipulation techniques including replacing characters, converting to uppercase, and reversing a string.
 
